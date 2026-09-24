@@ -23,8 +23,7 @@ the folder with any static host (GitHub Pages, Vercel, Netlify, S3).
 
 Search for `class="tbd"` across the HTML files — each one is an unresolved field:
 
-- Confirm `support@theselahbibleapp.com` / `privacy@theselahbibleapp.com` actually exist and
-  are monitored before publishing.
+- Confirm `supportselahapp@gmail.com` is actually monitored before publishing.
 - Minimum age, data retention/deletion timeframe, governing-law jurisdiction, and the
   company's legal name.
 - Attorney review of `privacy.html` and `terms.html` — both are accurate to what the app
